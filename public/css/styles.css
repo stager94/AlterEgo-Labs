@@ -104,6 +104,11 @@
   color: #414142;
   text-align: center;
   padding-bottom: 5px; }
+#projects .info .link a {
+  font-size: 14px;
+  color: #414142;
+  text-decoration: none;
+}
 #projects .info .description {
   font-size: 18px;
   color: #333;
